@@ -54,4 +54,6 @@
 // el script build lo módificamos estableciendo el archivo webpack.config.js
 
 // para hacer Deploy del proyecto, este debe estar en un repositorio en GitHub, entramos a Netlify
-// iniciando sesión por medio de GitHub, 
+// iniciando sesión utilizando GitHub, damos click en New site from git, seleccionamos GitHub,
+// buscamos y seleccionamos el repositorio del proyecto para mandar a producción, confirmamos
+// que la información para publicar el sitio sea la correcta, damos click en Deploy site
